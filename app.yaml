@@ -4,8 +4,14 @@ threadsafe: true
 
 
 handlers:
+
+- url: /bootstrap
+  static_dir: bootstrap
+
 - url: /.*
   script: main.app
+
+
 
 # [START libraries]
 libraries:
