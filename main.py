@@ -9,7 +9,7 @@ from google.appengine.api import urlfetch
 
 
 client_id = "1016136940228-8eqgf7817ailevij436do6k3cd6btj7i.apps.googleusercontent.com"
-redirect_uri = "http://localhost:8080/oauth"
+redirect_uri = "https://oauth-496-166923.appspot.com/oauth"
 client_secret = "N7B8F-X94JDsg8m36axvL79b"
 
 
